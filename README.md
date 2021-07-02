@@ -7,6 +7,7 @@ You know, when you just wanna have fun with your peers through the internet.
 - [Gartic Phone](https://garticphone.com/)
 - [City Guesser/Virtual Vacation](https://virtualvacation.us/private-room)
 - [All bad cards](https://allbad.cards/) (similar to cards against the humanity)
+- [Codenames](https://codenames.game/)
 
 ## Browser client native host games
 
