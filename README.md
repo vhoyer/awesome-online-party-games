@@ -31,3 +31,4 @@ Here a list for multiplayer games that are installed, like, from steam, epic, et
 - Sea of Thieves
   - Players: party up to 4, but it's an MMO
   - Platforms: [Steam](https://store.steampowered.com/app/1172620/Sea_of_Thieves/), [Xbox Game Pass](https://www.xbox.com/pt-BR/games/sea-of-thieves)
+- [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/)
