@@ -9,6 +9,7 @@ You know, when you just wanna have fun with your peers through the internet.
 - [All bad cards](https://allbad.cards/) (similar to cards against the humanity)
 - [Codenames](https://codenames.game/)
 - [Haxball](https://haxball.com/)
+- [Hanabi](https://hanabi.cards/)
 
 ## Browser client native host games
 
