@@ -1,5 +1,5 @@
 # awesome-online-party-games
-You know, when you just wanna have fun with your peers through the internet.
+You know, when you just wanna have fun with your peers through the internet. After some time I came across this other repo: https://github.com/MatMoore/online-board-games-and-party-games.
 
 ## Browser games
 
